@@ -1,3 +1,10 @@
+"""
+
+Juan Felipe Hernández Quintero - 2241796
+Johan Francisco López Jaimes - 2241548
+
+"""
+
 from bigtree import Node, print_tree
 
 #Nodo raíz
